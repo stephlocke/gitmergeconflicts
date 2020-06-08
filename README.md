@@ -1,3 +1,3 @@
 # gitmergeconflicts
 
-![Leslie Knope](https://media.giphy.com/media/1SWiahmI5bbi0/giphy.gif)
+![Leslie Knope](https://media.giphy.com/media/grG2ErdynEGM8/giphy.gif)
